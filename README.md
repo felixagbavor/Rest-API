@@ -1,3 +1,3 @@
 REST Web API
 
-A simple web based REST API with using flask 
+A simple web based REST API using flask 
